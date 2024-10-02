@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "MERN",
+    "imageSrc": "skills/mern.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/machine-learning.png"
+  },
+  {
+    "title": "PowerBI",
+    "imageSrc": "skills/powerbi.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

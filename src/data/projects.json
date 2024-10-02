@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Fake-News-Detection",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a machine learning model for fake news detection using Random Forest and XGBoost, achieving 76% accuracy and enhancing reliability through effective data preprocessing.",
+    "skills": ["Python", "R", "Machine Learning"],
+    
+    "source": "https://github.com/LITHISHN/Fake-news-Detection"
+  },
+  {
+    "title": "Clothing-Cart",
+    "imageSrc": "projects/hero4.png",
+    "description": "Thara is a modern and responsive e-commerce platform for the fashion industry, providing a seamless shopping experience. Built with React, this project highlights my front-end development and UI design skills.",
+    "skills": ["HTML", "CSS", "React.js"],
+    "demo": "https://harmonious-pudding-ffaaad.netlify.app",
+    "source": "https://github.com/LITHISHN/Clothing-Website"
+  },
+  {
+    "title": "Google-Clone",
+    "imageSrc": "projects/google-clone.png",
+    "description": "This project is a functional clone of the Google Search Engine, demonstrating my skills in front-end development and API integration using React and Google APIs.",
+    "skills": ["React.js", "Tailwind", "Google APIs"],
+    "demo": "https://helpful-cassata-7cff61.netlify.app/",
+    "source": "https://github.com/LITHISHN/google-clone"
+  }
+  
+]

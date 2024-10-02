@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Data Scientist Intern",
+    "organisation": "Shiash info solutions",
+    "startDate": "April, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Improved predictive accuracy in projects, resulting in a 20% increase in detection accuracy and enhancing reliability for users", 
+    "Conducted ETL and data cleaning, leading to improved decision-making and greater operational efficiency.",
+     "Created interactive dashboards that increased marketing campaign effectiveness by 15% through actionable insights."],
+    "imageSrc": "history/images.png"
+  }
+ 
+]
